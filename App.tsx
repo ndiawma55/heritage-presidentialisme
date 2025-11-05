@@ -1,5 +1,6 @@
 import React from 'react';
-import Section from './components/Section';
+import Section from "./components/Section";
+
 import Quote from './components/Quote';
 import DevelopmentChart from './components/DevelopmentChart';
 
